@@ -1,0 +1,4 @@
+{
+  "name": "geospatial",
+  "description": "Geospatial point library using S2"
+}
